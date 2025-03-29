@@ -12,7 +12,7 @@ function descriptor()
         version = "1.2",
         author = "Mindconstructor (modified)",
         url = 'http://www.videolan.org',
-        shortdesc = "Folder Playlist Loader & Navigation",
+        shortdesc = "Folder Playlist Loader",
         description = "Captures the initially opened media, loads the folder's media into the playlist, and resumes from that file.",
         capabilities = {"input-listener"},
         commands = {
