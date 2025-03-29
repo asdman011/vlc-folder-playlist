@@ -28,7 +28,7 @@ A VLC extension that automatically loads all media files from the current folder
 
 1. Open any media file in VLC
 2. Activate the extension:
-   - Go to `View` > `Folder Playlist Loader` (or similar, depending on your exact extension name)
+   - Go to `View` > `Folder Playlist Loader`
    - Alternatively, use the extension manager in VLC's preferences
 
 **Navigation Commands**:
@@ -68,7 +68,7 @@ To modify the extension:
 
 ## License
 
-[MIT License](LICENSE)
+[GNU General Public License v3.0](LICENSE)
 
 ## Contributing
 
