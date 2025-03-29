@@ -2,7 +2,7 @@
 
 A VLC extension that automatically loads all media files from the current folder into the playlist while maintaining playback of the initially opened file. Provides seamless navigation through folder contents.
 
-![Demo](demo.gif) *(Optional: Add a demo GIF if available)*
+
 
 ## Features
 
@@ -17,7 +17,7 @@ A VLC extension that automatically loads all media files from the current folder
 
 ## Installation
 
-1. **Download** the latest `.lua` file from the [Releases](https://github.com/yourusername/vlc-folder-playlist/releases) section
+1. **Download** the latest `.lua` file from the [Releases](https://github.com/asdman011/vlc-folder-playlist/releases) section
 2. **Place** the file in VLC's extensions folder:
    - **Windows**: `%APPDATA%\vlc\lua\extensions\`
    - **Linux**: `~/.local/share/vlc/lua/extensions/`
